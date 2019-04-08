@@ -9,7 +9,7 @@ hello_msg = "Welcome in AmI Task List 237031 bot!\nHere's a list of commands you
             "/removeTask - remove a task (by typing its content, exactly)\n" \
             "/removeAllTasks - remove all the existing tasks that contain a provided string\n" \
             "/help - read again this message\n\n" \
-            "All the commands are executed on the 'task_list.txt' file"
+            "All the commands are executed on a local based database (id, task)"
 
 # getting list from db
 index=0
